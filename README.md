@@ -1,6 +1,6 @@
 # Zap
 
-**Zap** is a C++ command-line utility for file compression and decompression using Huffman coding. It reduces the number of bits required to represent data by encoding characters into binary form, then decodes them back into readable ASCII text.
+**Zap** is a C++ command-line utility for file compression and decompression using Huffman coding. It can reduce the number of bits required to represent data by encoding characters into binary form, as well as decode them back into readable ASCII text.
 
 ## Compile & Run
 
